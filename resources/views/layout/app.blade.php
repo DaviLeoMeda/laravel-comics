@@ -11,13 +11,7 @@
 
     @include('partials.header')
 
-    <main>
-
-        <div>
-
-        </div>
-
-    </main>
+    
 
     @include('partials.footer')
     

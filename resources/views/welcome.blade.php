@@ -19,8 +19,12 @@
 
     @include('partials.header')
 
-    <main class="bg-dark">
-       
+    <main>
+
+        <div class="container text-decoration-line-through">
+            <p>Perché non funzioni? Oppure si?</p>
+        </div>
+
     </main>
 
     @include('partials.footer')
